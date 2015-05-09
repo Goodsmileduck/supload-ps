@@ -2,7 +2,7 @@ What is ``supload``?
 --------------------
 
 It's simple script for upload file to cloud storage based on
-`OpenStack Swift API <http://docs.openstack.org/trunk/openstack-object-storage/developer/content/>`_.
+`OpenStack Swift API `
 
 
 Feature
