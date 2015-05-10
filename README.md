@@ -9,8 +9,7 @@ Feature
 -------
 
 * check files by MD5 hash
-* upload only modified files
-* find and upload only newest files
+* find and upload only newest file
 
 
 Restrictions
@@ -22,8 +21,8 @@ Installation
 
 Usage
 -----
-
+./supload-ps -user <USER> -key <PASSWORD> <DEST_DIR> <SRC_PATH>
 Changes
 -------
 0.1:
-
+* find and upload only newest file
