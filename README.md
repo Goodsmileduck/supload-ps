@@ -21,7 +21,7 @@ Installation
 
 Usage
 -----
-./supload-ps -user <USER> -key <PASSWORD> <DEST_DIR> <SRC_PATH>
+./supload-ps -user USER -key PASSWORD DEST_DIR SRC_PATH
 Changes
 -------
 0.1:
