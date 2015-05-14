@@ -1,4 +1,4 @@
-What is ``supload``?
+What is ``supload-ps``?
 --------------------
 
 It's simple script for upload file to cloud storage based on
@@ -22,6 +22,8 @@ Installation
 Usage
 -----
 ./supload-ps -user USER -key PASSWORD DEST_DIR SRC_PATH
+For upload latest file
+./supload-ps -user USER -key PASSWORD DEST_DIR SRC_PATH -onlylast
 Changes
 -------
 0.1:
